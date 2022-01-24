@@ -82,7 +82,7 @@ const Goa = new Trips(
   "images/GoaBeach.jpg"
 );
 
-const interNationalTrips = new InterNationlTrips(
+const japan = new InterNationlTrips(
   "International",
   "Japan",
   55,
@@ -166,5 +166,5 @@ The Sukhothai Historical Park is also dotted with sparkling lakes, sunken moats,
   true,
   45
 );
-export const WorldTrips = [Goa, interNationalTrips, LasVegas];
+export const WorldTrips = [Goa, japan, LasVegas];
 WorldTrips.push(jacksonville, philiphines, thailand);
