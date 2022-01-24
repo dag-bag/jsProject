@@ -88,7 +88,7 @@ const interNationalTrips = new InterNationlTrips(
   55,
   "This is great opportunity for travel world",
   "If you plan to go to Japan you’ll find the country fascinating. To help you in your planning, consider these ten popular places that have been intriguing travelers for centuries.<br>apan can be less expensive to visit than many other major destinations. Public transportation is often convenient, safe, and cost-effective, important if you’re on a budget. On the other hand, the 100 or so railway lines in Tokyo alone can prove a bit daunting.",
-  "images/japan-moutn-fuji.jpg",
+  "images/japan_mount_fuji.jpg",
   true,
   true,
   `TourGuide Charges  `
